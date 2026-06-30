@@ -1,4 +1,3 @@
-# fnp-sales-analysis-excel-dashboard
 # Ferns and Petals (FNP) Sales Analysis Dashboard
 
 ## 📖 Introduction
@@ -9,7 +8,7 @@ This project presents an **interactive Sales Analysis Dashboard** built entirely
 
 ---
 
-# 🎯 Problem Statement
+## 🎯 Problem Statement
 
 The objective of this project is to analyse FNP's sales dataset and build an interactive dashboard to answer key business questions about revenue, customer spending, delivery performance, product sales, and regional performance.
 
@@ -28,7 +27,7 @@ The objective of this project is to analyse FNP's sales dataset and build an int
 
 ---
 
-# 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - Microsoft Excel
 - Power Query
@@ -42,7 +41,7 @@ The objective of this project is to analyse FNP's sales dataset and build an int
 
 ---
 
-# 📊 Dashboard KPIs
+## 📊 Dashboard KPIs
 
 | KPI | Value |
 |------|-------|
@@ -138,7 +137,7 @@ The analysis indicates that **higher order quantities do not significantly incre
 
 ---
 
-# 💡 Overall Business Insights
+## 💡 Overall Business Insights
 
 - Generated **₹3.52 Million** in revenue from **1,000 orders**.
 - Customers spend an average of **₹3,520.98** per order.
@@ -153,6 +152,6 @@ The analysis indicates that **higher order quantities do not significantly incre
 
 ---
 
-# ✅ Conclusion
+## Conclusion
 
 This dashboard demonstrates how Excel can be transformed into a powerful Business Intelligence tool by combining **Power Query, Power Pivot, DAX, and interactive visualisations **. It provides actionable insights into sales performance, customer behaviour, and product trends, enabling more informed business decisions.
