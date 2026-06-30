@@ -154,4 +154,4 @@ The analysis indicates that **higher order quantities do not significantly incre
 
 ## Conclusion
 
-This dashboard demonstrates how Excel can be transformed into a powerful Business Intelligence tool by combining **Power Query, Power Pivot, DAX, and interactive visualisations **. It provides actionable insights into sales performance, customer behaviour, and product trends, enabling more informed business decisions.
+This dashboard provides a comprehensive view of FNP's sales performance, customer behaviour, and product trends, serving as a valuable tool for data-driven decision-making and future business strategy.
