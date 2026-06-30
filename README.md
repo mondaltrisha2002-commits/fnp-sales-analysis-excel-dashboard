@@ -1,6 +1,6 @@
 # Ferns and Petals (FNP) Sales Analysis Dashboard
 
-## 📖 Introduction
+## Introduction
 
 Ferns and Petals (FNP) is one of India's leading gifting brands, offering flowers, cakes, personalised gifts, plants, chocolates, soft toys, sweets, and other products for occasions such as Birthdays, Anniversaries, Valentine's Day, Raksha Bandhan, Holi, and Diwali. With customers ordering throughout the year, analysing sales performance and customer purchasing behaviour is essential to making better business decisions.
 
@@ -8,7 +8,7 @@ This project presents an **interactive Sales Analysis Dashboard** built entirely
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 The objective of this project is to analyse FNP's sales dataset and build an interactive dashboard to answer key business questions about revenue, customer spending, delivery performance, product sales, and regional performance.
 
@@ -27,7 +27,7 @@ The objective of this project is to analyse FNP's sales dataset and build an int
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Microsoft Excel
 - Power Query
