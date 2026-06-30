@@ -52,7 +52,7 @@ The objective of this project is to analyse FNP's sales dataset and build an int
 
 ---
 
-# 📈 Sales Analysis
+## 📈 Sales Analysis
 
 ## 1. Revenue by Occasion
 
